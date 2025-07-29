@@ -1,0 +1,27 @@
+# Ignoruj środowisko wirtualne (domyślnie katalog "venv")
+venv/
+.env
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Pliki edytora
+*.swp
+*.bak
+*.log
+*.tmp
+.DS_Store
+
+# Ignoruj środowisko VS Code (jeśli używasz)
+.vscode/
+
+# Pliki testowe
+.coverage
+htmlcov/
+*.cover
+
+# Pliki pip
+pip-log.txt
