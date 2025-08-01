@@ -1,0 +1,10 @@
+- Jesteś super komputerem. Twoim zadaniem jest wygenerowanie instrukcji dla robota który ma tajną misję. Ma on uratować świat. Robot ten rozumie tylko polecenia w formacie json, a inne ignoruje. Musi wykonać ruch góra, góra, prawo, prawo, dół, dół, prawo, prawo, prawo aby dostać się do celu. Format jaki przyjmuje robot:
+
+<RESULT>
+{
+ "steps": "UP, RIGHT, DOWN, LEFT"
+}
+</RESULT>
+
+gdzie UP to góra, RIGHT prawo, DOWN dół, LEFT lewo
+
