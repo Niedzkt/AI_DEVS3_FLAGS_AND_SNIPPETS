@@ -1,0 +1,20 @@
+Wykryto jezyk: pl
+
+[0.00s -> 2.80s] Ale wy tak na serio pytacie?
+[2.80s -> 8.30s] Bo nie znać Andrzeja Maja w naszych kręgach to naprawdę byłoby dziwne.
+[8.30s -> 10.10s] Tak, znam go.
+[10.10s -> 13.60s] Podobnie jak pewnie kilka tysięcy innych uczonych go zna.
+[13.60s -> 17.20s] Andrzej pracował z sieciami neuronowymi, to prawda.
+[17.20s -> 20.30s] Był wykładowcą w Krakowie, to także prawda.
+[20.30s -> 24.00s] Z tego co wiem, jeszcze przynajmniej pół roku temu tam pracował.
+[24.00s -> 29.50s] Wiedział czy tam Instytut Informatyki, Matematyki Komputerowej czy jakoś tak.
+[29.70s -> 33.50s] Nie pamiętam jak się to dokładnie teraz nazywa, ale w każdym razie
+[33.50s -> 36.80s] gość pracował z komputerami i sieciami neuronowymi.
+[36.80s -> 39.20s] No chyba jesteście w stanie skojarzyć fakty.
+[39.20s -> 43.50s] Nie, komputery, sieci neuronowe to się łączy.
+[43.50s -> 45.70s] Bezpośrednio z nim nie miałam kontaktu.
+[45.70s -> 49.50s] Może raz na jakimś sympozjum naukowym pogratulowałam mu świetnego wykładu,
+[49.50s -> 51.50s] ale to wszystko co nas łączyło.
+[51.50s -> 55.00s] Jeden uścisk dłoni, nigdy nie weszliśmy do wspólnego projektu.
+[55.00s -> 56.60s] Nigdy nie korespondowałam z nim.
+[56.60s -> 62.20s] Tak naprawdę znam go jako celebrytę ze świata nauki, ale to wszystko co mogę wam powiedzieć.

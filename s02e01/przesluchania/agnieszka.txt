@@ -1,0 +1,24 @@
+Wykryto jezyk: pl
+
+[0.00s -> 2.60s] Może go znałam, a może nie. Kto wie.
+[2.60s -> 5.40s] Zacznijmy od tego, że nie macie prawa mnie tutaj przetrzymywać.
+[5.40s -> 7.40s] Absolutnie nic złego nie zrobiłam.
+[7.40s -> 9.40s] Trzymacie mnie tutaj niezgodnie z prawem.
+[9.40s -> 12.40s] Wiem, że teraz wszystko się zmienia na świecie
+[12.40s -> 15.20s] i roboty dyktują jak ma być, ale o ile się nie mylę,
+[15.20s -> 17.20s] dawne prawo nadal obowiązuje.
+[17.20s -> 19.20s] Mamy tutaj jakąś konstytucję, prawda?
+[19.20s -> 21.20s] Chcę rozmawiać z adwokatem.
+[21.20s -> 23.20s] Maja znałam, to prawda.
+[23.20s -> 25.20s] Było to kilka lat temu.
+[25.20s -> 28.40s] Pracowaliśmy razem w Warszawie, ale na tym nasza znajomość się skończyła.
+[28.40s -> 30.00s] Byliśmy w tej samej pracy.
+[30.00s -> 32.00s] Czy to jest jakieś przestępstwo?
+[32.00s -> 34.00s] To jest coś niedozwolonego w naszym kraju?
+[34.00s -> 36.00s] Za to można wsadzać ludzi do więzienia?
+[36.00s -> 38.00s] On wjechał z Warszawy.
+[38.00s -> 40.00s] Nie ma go tam.
+[40.00s -> 42.00s] Z tego co wiem, pojechał do Krakowa.
+[42.00s -> 44.00s] Wykładać tam chciał chyba coś z informatyki czy matematyki.
+[44.00s -> 46.00s] Nie wiem jak to się skończyło.
+[46.00s -> 48.00s] Może to były tylko plany?

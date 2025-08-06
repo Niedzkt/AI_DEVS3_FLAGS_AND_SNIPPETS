@@ -1,0 +1,10 @@
+```yaml
+_thoughts: 
+  - Wielu zeznających potwierdza, że Andrzej Maj jest wykładowcą w Krakowie.
+  - Wspomniano, że Andrzej robił doktorat z sieci neuronowych i uczenia maszynowego, a jego marzeniem było wykładać na prestiżowej uczelni.
+  - Monika wspomina o Instytucie Informatyki, Matematyki Komputerowej, gdzie Andrzej miałby pracować z komputerami i sieciami neuronowymi.
+  - Rafał wspomina, choć niejasno, o ulicy związanej z matematykiem, która "wpada w komendanta".
+  - W Krakowie znajduje się znany Instytut Informatyki przy ul. Profesora Stanisława Łojasiewicza.
+  - Łojasiewicz był matematykiem, a jego nazwisko pokrywa się z kontekstem matematycznym oraz pasuje do opisu "ulicy od matematyka".
+answer: "Profesora Stanisława Łojasiewicza"
+```

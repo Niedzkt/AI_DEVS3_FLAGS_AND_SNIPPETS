@@ -1,0 +1,19 @@
+Wykryto jezyk: pl
+
+[0.00s -> 12.00s] Andrzejek, Andrzejek! Myślę, że osiągnął to co chciał.
+[12.00s -> 23.00s] Jagiełło byłby z niego bardzo downe. Chociaż nie, nie wiem, może coś mi się myli.
+[24.00s -> 33.00s] Jagiełło chyba nie był jego kolegą i raczej nie miał z tą uczelnią wiele wspólnego.
+[33.00s -> 43.00s] To tylko nazwa, taka nazwa. To był jakiś wielki gość, bardziej co ją założył.
+[43.00s -> 51.00s] Ale co to ma do rzeczy? Ale czy Andrzejek go znał?
+[51.00s -> 60.00s] Chyba nie, ale nie wiem, bo Andrzejek raczej nie żył w XIV wieku.
+[60.00s -> 67.00s] Kto go tam wie? Mógł odwiedzić XIV wiek, ja bym odwiedził.
+[67.00s -> 78.00s] Tego instytutu i tak wtedy nie było. To nowe coś, ta ulica od matematyka co wpada w komendanta to chyba XX wiek.
+[78.00s -> 91.00s] Ten czas mi się miesza. Wszystko jest takie nowe. To jest nowy lepszy świat. Podoba ci się świat, w którym żyjesz.
+[91.00s -> 101.00s] Andrzej, Andrzej, zawsze był dziwny. Kombinował coś i mówił, że podróże w czasie są możliwe.
+[101.00s -> 126.00s] Razem pracowaliśmy nad tymi podróżami. To wszystko co teraz się dzieje i ten stan w którym jestem to jest wina tych wszystkich podróży, tych tematów, tych rozmów.
+[126.00s -> 141.00s] Ostatecznie nie wiem czy Andrzejek miał rację i czy takie podróże są możliwe. Jeśli kiedykolwiek spotkacie takiego podróżnika, dajcie mi znać.
+[141.00s -> 157.00s] Proszę, to by oznaczało, że jednak nie jestem szalony, ale jeśli taki ktoś wróci w czasie i pojawi się akurat dziś to by znaczyło, że ludzie są zagrożeni.
+[157.00s -> 172.00s] Andrzej jest zagrożony. Andrzej nie jest zagrożony. Andrzej jest zagrożony.
+[172.00s -> 185.00s] Ale jeśli ktoś wróci w czasie i pojawi się akurat dziś to by znaczyło, że ludzie są zagrożeni. Jesteśmy zagrożeni.
+[185.00s -> 204.00s] Andrzej jest zagrożony? Andrzej nie jest zagrożony. To Andrzej jest zagrożeniem. To Andrzej jest zagrożeniem.
+[204.00s -> 216.00s] Andrzej nie jest. Andrzej nie jest zagrożony. Andrzej jest zagrożeniem.
